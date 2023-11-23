@@ -53,7 +53,8 @@ Por exemplo, após executar o projeto localmente, você pode:
 - Explorar as funcionalidades de autenticação.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65368831/95040833-44e58980-06ab-11eb-9687-601273df2102.gif" width="400" />
+  <img src="![WhatsApp Image 2023-11-22 at 22 33 43](https://github.com/Matheus-o-alves/target_app/assets/65368831/f77ae04d-cd60-476d-ba2f-a4ce99bdf5b0)
+" />
 </p>
 
 ## Contribuição
